@@ -54,10 +54,11 @@ Con esto se resolvio el reto segun la siguiente arquitectura:
 6.- utilizando tecnicas de machine learning se entreno un algoritmo por cada maquina y se realizan predicciones las cuales se envian a un reporte en Microsoft Power BI para poder visualizar las predicciones en un formato de storytelling.
 7- utilizando modelos avanzados de matematica aplicada se construyo un modelo para la gestión de la planificación
 
-El codigo del proyecto fue desarrollado utilizando notebooks en Databricks y dejando los archivos en el raw del Catalogo de Databricks
+A continuación se presenta la arquitectur antes descrita:
 ![image](https://github.com/pbonillor/DatatonIndesa2024/assets/42980042/fe9e4dd3-8306-449e-9473-7e04de7211ed)
 
-Se estructura de la siguiente manera:
+El codigo del proyecto fue desarrollado utilizando notebooks en Databricks y dejando los archivos en el raw del Catalogo de Databricks
+
 
 
 
